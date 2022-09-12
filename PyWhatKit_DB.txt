@@ -1,0 +1,60 @@
+Date: 4/9/2022
+Time: 1:40
+Phone Number: +50230276831
+Message: Test
+--------------------
+Date: 4/9/2022
+Time: 1:42
+Phone Number: +50230276831
+Message: Test
+--------------------
+Date: 4/9/2022
+Time: 1:43
+Phone Number: +50241015805
+Message: Test
+--------------------
+Date: 8/9/2022
+Time: 16:51
+Phone Number: +50241015805
+Message: Hi
+--------------------
+Date: 12/9/2022
+Time: 11:30
+Group ID: EIxwutlXLW8CsO4GHFx8gB
+Message: mensaje a grupos
+--------------------
+Date: 12/9/2022
+Time: 12:12
+Phone Number: +50230276831
+Message: Test
+--------------------
+Date: 12/9/2022
+Time: 12:24
+Group ID: EIxwutlXLW8CsO4GHFx8gB
+Message: Test
+--------------------
+Date: 12/9/2022
+Time: 12:55
+Group ID: EIxwutlXLW8CsO4GHFx8gB
+Message: Test
+--------------------
+Date: 12/9/2022
+Time: 14:15
+Group ID: EIxwutlXLW8CsO4GHFx8gB
+Message: ¡Hola a todos!
+--------------------
+Date: 12/9/2022
+Time: 14:19
+Group ID: EIxwutlXLW8CsO4GHFx8gB
+Message: ¡Hola a todos!
+--------------------
+Date: 12/9/2022
+Time: 15:19
+Group ID: EIxwutlXLW8CsO4GHFx8gB
+Message: Test
+--------------------
+Date: 12/9/2022
+Time: 15:22
+Group ID: EIxwutlXLW8CsO4GHFx8gB
+Message: Esta es otra prueba
+--------------------
