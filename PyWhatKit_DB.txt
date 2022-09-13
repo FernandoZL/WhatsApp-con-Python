@@ -58,3 +58,13 @@ Time: 15:22
 Group ID: EIxwutlXLW8CsO4GHFx8gB
 Message: Esta es otra prueba
 --------------------
+Date: 12/9/2022
+Time: 21:38
+Group ID: EIxwutlXLW8CsO4GHFx8gB
+Message: Esta es otra prueba
+--------------------
+Date: 12/9/2022
+Time: 21:40
+Group ID: EIxwutlXLW8CsO4GHFx8gB
+Message: Este es un mensaje de prueba para enviar mensajes a grupos
+--------------------
