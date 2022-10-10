@@ -68,3 +68,8 @@ Time: 21:40
 Group ID: EIxwutlXLW8CsO4GHFx8gB
 Message: Este es un mensaje de prueba para enviar mensajes a grupos
 --------------------
+Date: 15/9/2022
+Time: 22:15
+Group ID: EIxwutlXLW8CsO4GHFx8gB
+Message: Este es un mensaje de prueba para enviar mensajes a grupos HOY JUEVES A LAS 10:17PM
+--------------------
